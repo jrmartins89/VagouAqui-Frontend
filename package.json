@@ -1,0 +1,11 @@
+{
+  "name": "vagouaqui-frontend",
+  "version": "1.0.0",
+  "description": "package with modules for app front-end",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jose Ribamar Jr",
+  "license": "ISC"
+}
